@@ -38,3 +38,7 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+*desktop.ini
+sym-lib-table
+replicate_layout.log
+fp-lib-table
